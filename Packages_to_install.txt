@@ -1,0 +1,5 @@
+1.  npm i express
+2.  npm i nodemon
+3.  npm i body-parser
+4.  npm i mysql
+5.  
